@@ -26,23 +26,23 @@ nodea --> toola & toolb --> nodeb
 
 ### Tổng Quan Lộ Trình
 
-| Buổi | Nội dung | Ghi chú |
-| ----- | ----- | ----- |
-| 1 | Cài đặt công cụ hỗ trợ phân tích Bài 1: Giới thiệu Phân tích dữ liệu |  |
-| 2 | Ôn tập các kỹ thuật lập trình Python cần thiết | 1 buổi  |
-| 3 | Bài 2: Sắp xếp dữ liệu |  |
-| 4 | Bài 2: Sắp xếp dữ liệu *(tiếp theo)* Bài tập củng cố Tìm bộ dữ liệu Hướng dẫn đăng ký nhóm | Hoạt động nhóm: Tìm bộ dữ liệu |
-| 5 | Bài 3: Trực quan hóa dữ liệu  |  |
-| 6 | Bài 4: Kỹ thuật phân tích  |  |
-| 7 | Bài 4: Kỹ thuật phân tích (tiếp theo)  |  |
-| 8 | Bài 5: Phát triển mô hình trong phân tích Review bộ dữ liệu làm đồ án môn học |  |
-| 9 | Bài 6: Đánh giá mô hình | Bài tập TH: Cá nhân \- Phân tích dữ liệu |
-| 10 | Bài 7: Triển khai kết quả phân tích |  |
-| 11 | Hướng dẫn viết B/c đồ án môn học |  |
-| 12 |  | Dự phòng |
-| 13 |  | Dự phòng |
-| 14 |  | Báo cáo đợt 1 |
-| 15 |  | Báo cáo đợt 2 |
+| Buổi | Nội dung                                                                                   | Ghi chú                                  |
+| ---: | ------------------------------------------------------------------------------------------ | ---------------------------------------- |
+|    1 | Cài đặt công cụ hỗ trợ phân tích Bài 1: Giới thiệu Phân tích dữ liệu                       |                                          |
+|    2 | Ôn tập các kỹ thuật lập trình Python cần thiết                                             | 1 buổi                                   |
+|    3 | Bài 2: Sắp xếp dữ liệu                                                                     |                                          |
+|    4 | Bài 2: Sắp xếp dữ liệu *(tiếp theo)* Bài tập củng cố Tìm bộ dữ liệu Hướng dẫn đăng ký nhóm | Hoạt động nhóm: Tìm bộ dữ liệu           |
+|    5 | Bài 3: Trực quan hóa dữ liệu                                                               |                                          |
+|    6 | Bài 4: Kỹ thuật phân tích                                                                  |                                          |
+|    7 | Bài 4: Kỹ thuật phân tích (tiếp theo)                                                      |                                          |
+|    8 | Bài 5: Phát triển mô hình trong phân tích Review bộ dữ liệu làm đồ án môn học              |                                          |
+|    9 | Bài 6: Đánh giá mô hình                                                                    | Bài tập TH: Cá nhân \- Phân tích dữ liệu |
+|   10 | Bài 7: Triển khai kết quả phân tích                                                        |                                          |
+|   11 | Hướng dẫn viết B/c đồ án môn học                                                           |                                          |
+|   12 |                                                                                            | Dự phòng                                 |
+|   13 |                                                                                            | Dự phòng                                 |
+|   14 |                                                                                            | Báo cáo đợt 1                            |
+|   15 |                                                                                            | Báo cáo đợt 2                            |
 
 ### A1. Quá trình: 20%
 
@@ -66,14 +66,14 @@ Sản phẩm đồ án môn học
 ## IE224 – PHÂN TÍCH DỮ LIỆU
 
 | Buổi | Nội Dung                                                                                   | Ghi Chú                                  | Date       |
-| ---- | ------------------------------------------------------------------------------------------ | ---------------------------------------- | ---------- |
-| 1    | Cài đặt công cụ hỗ trợ phân tích Bài 1: Giới thiệu Phân tích dữ liệu                       |                                          | 2026-07-19 |
-| 2    | Ôn tập các kỹ thuật lập trình Python cần thiết Thư viện: pandas                            | 1.5 buổi                                 |            |
-| 3    | Bài 2: Sắp xếp dữ liệu                                                                     |                                          |            |
-| 4    | Bài 2: Sắp xếp dữ liệu *(tiếp theo)* Bài tập củng cố Tìm bộ dữ liệu Hướng dẫn đăng ký nhóm | Hoạt động nhóm: Tìm bộ dữ liệu           |            |
-| 5    | Bài 3: Trực quan hóa dữ liệu – matplotlib, seaborn                                         |                                          |            |
-| 6    | Bài 4: Kỹ thuật phân tích                                                                  |                                          |            |
-| 7    | Bài 5: Phát triển mô hình trong phân tích (sk-learn) Review bộ dữ liệu làm đồ án môn học   |                                          |            |
-| 8    | Bài 6: Đánh giá mô hình                                                                    | Bài tập TH: Cá nhân \- Phân tích dữ liệu |            |
-| 9    | Bài 7: Triển khai kết quả phân tích                                                        |                                          |            |
-| 10   | Hướng dẫn viết B/c đồ án môn học                                                           |                                          |            |
+| ---: | ------------------------------------------------------------------------------------------ | ---------------------------------------- | ---------- |
+|    1 | Cài đặt công cụ hỗ trợ phân tích Bài 1: Giới thiệu Phân tích dữ liệu                       |                                          | 2026-07-19 |
+|    2 | Ôn tập các kỹ thuật lập trình Python cần thiết Thư viện: pandas                            | 1.5 buổi                                 |            |
+|    3 | Bài 2: Sắp xếp dữ liệu                                                                     |                                          |            |
+|    4 | Bài 2: Sắp xếp dữ liệu *(tiếp theo)* Bài tập củng cố Tìm bộ dữ liệu Hướng dẫn đăng ký nhóm | Hoạt động nhóm: Tìm bộ dữ liệu           |            |
+|    5 | Bài 3: Trực quan hóa dữ liệu – matplotlib, seaborn                                         |                                          |            |
+|    6 | Bài 4: Kỹ thuật phân tích                                                                  |                                          |            |
+|    7 | Bài 5: Phát triển mô hình trong phân tích (sk-learn) Review bộ dữ liệu làm đồ án môn học   |                                          |            |
+|    8 | Bài 6: Đánh giá mô hình                                                                    | Bài tập TH: Cá nhân \- Phân tích dữ liệu |            |
+|    9 | Bài 7: Triển khai kết quả phân tích                                                        |                                          |            |
+|   10 | Hướng dẫn viết B/c đồ án môn học                                                           |                                          |            |
