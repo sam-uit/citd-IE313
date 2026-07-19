@@ -12,5 +12,5 @@ subgraph "Công Cụ Xử Lý"
  toolb(["Hậu Xử Lý"])
 end
 
-nodea -- toola & toolb -- nodeb
+nodea --> toola & toolb --> nodeb
 ```
