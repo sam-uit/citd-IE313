@@ -8,9 +8,12 @@ nodea(["Dữ Liệu Thô"])
 nodeb(["Dữ Liệu Đã Xử Lý"])
 
 subgraph "Công Cụ Xử Lý"
- toola(["Tiền Xử Lý"])
- toolb(["Hậu Xử Lý"])
+ toola(["Công Cụ A"])
+ toolb(["Công Cụ B"])
 end
 
 nodea --> toola & toolb --> nodeb
 ```
+
+Dataset: https://archive.ics.uci.edu/
+Dataset Type: Tabular (structured)
