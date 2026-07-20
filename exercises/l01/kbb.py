@@ -18,6 +18,13 @@ kbb_dict = {
     "bao": "Bao"
 }
 
+# result_dict: các kết quả khả thi của trò chơi
+result_dict = {
+    0: "Hòa!",
+    1: "Bạn thắng!",
+    2: "Máy thắng!"
+}
+
 # get_kbb_choice: trả về một lựa chọn ngẫu nhiên từ kbb_dict
 def get_kbb_choice():
     """Trả về một lựa chọn ngẫu nhiên từ kbb_dict"""
@@ -27,11 +34,11 @@ def get_kbb_choice():
 def winner(your_choice: str, computer_choice: str):
     """Xác định người chiến thắng dựa trên lựa chọn của người chơi và máy"""
     if your_choice == computer_choice:
-        return "Hòa!"
+        return 0
     elif (your_choice == "keo" and computer_choice == "bao") or \
          (your_choice == "bua" and computer_choice == "keo") or \
          (your_choice == "bao" and computer_choice == "bua"):
-        return "Bạn thắng!"
+        return 1
     else:
-        return "Máy thắng!"
+        return 2
 
