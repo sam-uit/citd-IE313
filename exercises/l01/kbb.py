@@ -53,3 +53,8 @@ def play():
 
     result = winner(your_choice, computer_choice)
     print(f"[>] Kết quả:\t {result_dict[result]}")
+
+# Chạy Trò Chơi
+if __name__ == "__main__":
+    print("Trò Chơi: Kéo - Búa - Bao")
+    play()
