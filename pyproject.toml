@@ -1,0 +1,7 @@
+[project]
+name = "citd-ie313"
+version = "0.1.0"
+description = "IE313.F32.LT.CNTT - Phân Tích và Trực Quan Dữ Liệu - Phạm Thế Sơn"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
