@@ -42,3 +42,14 @@ def winner(your_choice: str, computer_choice: str):
     else:
         return 2
 
+# play: chơi một lượt của trò chơi Kéo - Búa - Bao
+def play():
+    """Chơi một lượt của trò chơi Kéo - Búa - Bao"""
+    your_choice = get_kbb_choice()
+    print(f"[i] Bạn chọn:\t {kbb_dict[your_choice]}")
+
+    computer_choice = get_kbb_choice()
+    print(f"[i] Máy chọn:\t {kbb_dict[computer_choice]}")
+
+    result = winner(your_choice, computer_choice)
+    print(f"[>] Kết quả:\t {result_dict[result]}")
