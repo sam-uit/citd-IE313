@@ -8,3 +8,10 @@
 # - Kéo > Bao
 # - Búa > Kéo
 # - Bao > Búa
+# dict chứa các lựa chọn khả thi
+kbb_dict = {
+    "keo": "Kéo",
+    "bua": "Búa",
+    "bao": "Bao"
+}
+
