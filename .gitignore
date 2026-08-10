@@ -7,3 +7,7 @@
 
 # vim swap
 *.swp
+
+# JupyterLab
+*/.jupyter/
+*/.ipynb_checkpoints
